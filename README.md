@@ -1,5 +1,4 @@
-![Header](./https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png )
-
+<img width="3264" height="1088" alt="image" src="https://github.com/user-attachments/assets/7cf29a94-dd42-4106-90b3-9fd2306cf2a8" />
 # 💫 About Me:
 🚀 I'm currently working on<br>EdTech platform for NEET/medical students (11th-12th) with interactive brain holograms, labels, and fun visualizations, plus CuraTech healthcare kiosk for rural patient diagnostics using offline AI.<br>​<br><br>🔥 I'm looking to collaborate on<br>Open-source AI safety tools, GenAI apps (RAG/LangChain), or healthcare startups – DM for ideas!<br>​<br><br>💛 I'm looking for help with<br>Cloud deployment optimization (Docker/AWS) and LLM fine-tuning for low-resource devices.<br>​<br><br>🌱 I'm currently learning<br>Advanced cloud security, Industrial IoT, and entrepreneurship for AI ventures.<br>​<br><br>📫 Ask me about<br>AI/ML, Deep Learning, Computer Vision, full-stack AI integration, healthcare tech, or internship tips in Bengaluru.<br>​<br><br>⚡ Fun fact<br>Obsessed with research & development – love solving complex problems, finding innovative solutions, and building working prototypes that make real impact!<br>
 
